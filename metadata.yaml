@@ -1,0 +1,29 @@
+_repo: The-Soul-of-Golf_41149
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41149-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Vaile, P. A. (Percy Adolphus)
+    aliases:
+    - Vaile, Pembroke Arnold
+    - Vaile, Percy Adolphus
+    birthdate: 1866
+    gutenberg_agent_id: '41007'
+    url: http://www.gutenberg.org/2009/agents/41007
+description: ''
+gutenberg_issued: '2012-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41149'
+  lccn: a13000866
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Golf'
+- !lcc 'GV'
+title: The Soul of Golf
+url: http://www.gutenberg.org/ebooks/41149
